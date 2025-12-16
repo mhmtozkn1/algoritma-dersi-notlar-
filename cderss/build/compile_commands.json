@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/CDERS/cderss/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -g -o CMakeFiles\\cders3.dir\\cders3.c.obj -c C:\\CDERS\\cderss\\cders3.c",
+  "file": "C:/CDERS/cderss/cders3.c",
+  "output": "C:/CDERS/cderss/build/CMakeFiles/cders3.dir/cders3.c.obj"
+}
+]
